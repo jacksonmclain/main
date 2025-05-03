@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Energy Parity
 colors: colors-a
-date: '2021-12-20'
+date: '2022-01-20'
 client: Awesome client
 description: ''
 featuredImage:
